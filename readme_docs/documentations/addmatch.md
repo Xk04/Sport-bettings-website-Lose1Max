@@ -20,14 +20,14 @@ Cette fonctionnalité est réservée à l'**administrateur** (root) .
 
 Le formulaire d’ajout permet de renseigner :
 
-- 🏆 **Compétition** (`L1` ou `CL`) — bouton radio
-- 🏟️ **Équipe domicile** — liste déroulante alimentée dynamiquement depuis la table `equipes`
-- 🧳 **Équipe extérieure** — idem
-- 🎯 **Score equipe 1** - entier
-- 🎯 **Score equipe 2** - idem
-- 🗓️ **Date** — champ de type `date`
-- ⏰ **Heure** — champ de type `time`
-- 📅 **Journée** — entier
+-  **Compétition** (`L1` ou `CL`) — bouton radio
+-  **Équipe domicile** — liste déroulante alimentée dynamiquement depuis la table `equipes`
+-  **Équipe extérieure** — idem
+-  **Score equipe 1** - entier
+-  **Score equipe 2** - idem
+-  **Date** — champ de type `date`
+-  **Heure** — champ de type `time`
+-  **Journée** — entier
 
 
 
